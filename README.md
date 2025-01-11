@@ -94,4 +94,5 @@ Automate investment simulation for real-time data updates.
 For questions or collaboration opportunities, feel free to reach out:
 
 Author: Brian Kipngeno
+
 Email: briankosgey@gmail.com
