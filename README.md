@@ -78,7 +78,7 @@ Mutual funds pool money from multiple investors to purchase a diversified portfo
 **Risk-Reward Trade-off**: Demonstrated the balance between achieving stable returns and minimizing investment risk.
 
 # 📂 Dataset
-The project uses historical stock price data from the Nifty 50 Closing Prices Dataset.
+The project uses historical stock price data from the Nifty 50 Closing Prices Dataset [Link text] (https://bit.ly/nifty_close) .
 
 # 🛠️ Future Improvements
 
